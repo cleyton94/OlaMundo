@@ -1,2 +1,2 @@
-# OlaMundo
- repositório teste (Git e GitHub)
+# Olá, Mundo!
+ Primeiro repositório (Git e GitHub)
